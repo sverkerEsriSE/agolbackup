@@ -6,10 +6,10 @@ org_url = 'https://www.arcgis.com'
 username = ''
 password = ''
 
-
 # Change this when necessary
 download_location = Path('C:/temp/agolbackup')
 export_format = 'File Geodatabase' # or Shapefile, CSV
+
 
 gis = GIS(org_url, username, password)
 search_result = gis.content.search(query="", item_type="Feature Service", max_items=500)
