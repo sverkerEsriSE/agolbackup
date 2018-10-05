@@ -7,7 +7,7 @@ The author or Esri Sverige AB assumes no responsibility or liability for the use
 
 The author reserves the right to make changes in the software without notification. The author also make no representation or warranty that such application will be suitable for the specified use without further testing or modification.
 
-** Always make sure your backups contain the data and attachments that you expect before deleting any data from ArcGIS Online **
+**Always make sure your backups contain the data and attachments that you expect before deleting any data from ArcGIS Online**
 
 ## Description
 Backup script to backup items in ArcGIS Online
